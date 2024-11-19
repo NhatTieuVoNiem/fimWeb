@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Manrope-Bold;
+    src: url(../assets/fonts/manrope/Manrope-Bold.ttf);
+}
+
+@font-face {
+    font-family: Manrope-Light;
+    src: url(../assets/fonts/manrope/Manrope-Light.ttf);
+}
+
+@font-face {
+    font-family: Manrope-Medium;
+    src: url(../assets/fonts/manrope/Manrope-Medium.ttf);
+}
+
+@font-face {
+    font-family: Manrope-Regular;
+    src: url(../assets/fonts/manrope/Manrope-Regular.ttf);
+}

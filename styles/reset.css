@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text--wl: #fff;
+    --text--G75: #BFBFBF;
+    --text--G60: #999;
+    --background--B06: #0F0F0F;
+    --background--B08: #141414;
+    --background--B10: #1a1a1a;
+    --background--B12: #1f1f1f;
+    --background--B15: #262626;
+    --background--B20: #333;
+    --background--R45: #E50000;
+}
+
+html, body {
+    font-size: 16px;
+    color: var(--text--wl);
+    font-family: Manrope-Regular;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
